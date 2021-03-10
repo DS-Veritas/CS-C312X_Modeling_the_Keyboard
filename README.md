@@ -1,6 +1,5 @@
 ## CS-C312X_Modeling_the_Keyboard
-A Python based assignment for the course Human Computer Interaction (CS-C3120) that calculate 
-<br>the optimal design of the QWERTY keyboard based on the Fitts' Law and several other factors. 
+A Python based assignment for the course Human Computer Interaction (CS-C3120) that calculate and design optimal layout of the QWERTY keyboard based on the Fitts' Law and several other factors. 
 
 ### Documents
 [Final Report](Final_Report_Modeling_the_Keyboard.pdf)
